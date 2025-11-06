@@ -35,8 +35,8 @@
 <a href="https://github.com/o-datsiura">
   <table>
   <tr>
-      <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=o-datsiura&theme=radical&show_icons=true&locale=en" alt="o-datsiura" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-datsiura&show_icons=true&theme=radical&locale=en&layout=compact" alt="o-datsiura" /></td>
+      <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=o-datsiura&theme=radical&show_icons=true" alt="o-datsiura" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=o-datsiura&show_icons=true&theme=radical&layout=compact" alt="o-datsiura" /></td>
   </tr>   
 </table>
 </a>
