@@ -41,5 +41,5 @@
 </table>
 </a>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=o-datsiura](https://github-profile-trophy.vercel.app/?username=o-datsiura&theme=dark)" alt="o-datsiura" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o-datsiura&theme=onedark" alt="o-datsiura" /></a></p>
 # datsiura
